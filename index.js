@@ -1,3 +1,3 @@
-console.log("Melanie Fabian");
-console.log("5'10");
-console.log("Nigeria");
+console.log("Name: Melanie Fabian");
+console.log("Height: 5'10");
+console.log("Country: Nigeria");
